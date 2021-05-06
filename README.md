@@ -17,8 +17,8 @@ You can download the files and arrange them according to your own
 ### Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/baradielbenimulan/Rating.git
    ```
 
 ## Contact
-Þamil Servet Avcý - [@samilservet](https://twitter.com/samilservet) - bekekgaj@gmail.com
+Ãžamil Servet AvcÃ½ - [@samilservet](https://twitter.com/samilservet) - bekekgaj@gmail.com
